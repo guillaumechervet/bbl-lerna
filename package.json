@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "test": "jest"
+    "test": "lerna run test"
   },
   "devDependencies": {
     "jest": "^23.6.0",
