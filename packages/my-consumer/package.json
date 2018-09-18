@@ -1,6 +1,6 @@
 {
   "name": "@guillaume.chervet/my-consumer",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "private": false,
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@guillaume.chervet/my-dependency": "^0.1.0"
+    "@guillaume.chervet/my-dependency": "^1.0.0"
   }
 }
