@@ -1,1 +1,1 @@
-exports.useFullFonction = () => 1 + 1 + 1;
+exports.useFullFonction = () => 1 + 1 + 1 + 1;
